@@ -1,4 +1,4 @@
-# Terraform Configs used by Miracle Holdings Inc.
+# Terraform Configs used by HashiCafe
 
 ## CostInsight
 Appication that shares expenditure insights thru a multi workspace deployment for `dev`, `stage` ans `prod`
